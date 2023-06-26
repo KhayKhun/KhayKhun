@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=100086391128252](https://www.facebook.com/profile.php?id=100086391128252)
 
-- 💬 Ask me about **React , Nodejs**
+- 💬 Ask me about **Front-end development**
 
 - 📫 How to reach me **khaykhun22052006@gmail.com**
 
