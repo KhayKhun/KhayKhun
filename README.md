@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **khaykhun22052006@gmail.com**
 
-- ⚡ Fun fact **I think I am cool**
+- ⚡ Fun fact **I am cool **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
