@@ -2,9 +2,7 @@
 <h3 align="center">A Student Passionate about Software Development</h3>
 
 - 🔭 I’m currently working on **Conceptians**
-
-- 🌱 I’m currently learning **SQL , React Native**
-
+  
 - 👨‍💻 All of my projects are available at [https://portfolio-khaykhun.vercel.app/](https://portfolio-khaykhun.vercel.app/)
 
 - 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=100086391128252](https://www.facebook.com/profile.php?id=100086391128252)
@@ -12,8 +10,6 @@
 - 💬 Ask me about **Front-end development**
 
 - 📫 How to reach me **khaykhun22052006@gmail.com**
-
-- ⚡ Fun fact **I am cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
