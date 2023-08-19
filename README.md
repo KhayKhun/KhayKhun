@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **Conceptians**
   
-- 👨‍💻 All of my projects are available at [https://portfolio-khaykhun.vercel.app/](https://portfolio-khaykhun.vercel.app/)
+- 👨‍💻 [https://portfolio-khaykhun.vercel.app/](https://portfolio-khaykhun.vercel.app/)
 
 - 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=100086391128252](https://www.facebook.com/profile.php?id=100086391128252)
-
-- 💬 Ask me about **Front-end development**
 
 - 📫 How to reach me **khaykhun22052006@gmail.com**
 
