@@ -1,7 +1,5 @@
-<h1 align="center">Hell 👋, I'm Sai Khay Khun Mong</h1>
+<h1 align="center">Hell0 👋, I'm Sai Khay Khun Mong</h1>
 <h3 align="center">A Student Passionate about Web Development</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khaykhun&label=Profile%20views&color=0e75b6&style=flat" alt="khaykhun" /> </p>
 
 - 🔭 I’m currently working on **Conceptians**
 
