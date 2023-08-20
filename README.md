@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Sai Khay Khun Mong</h1>
-<h3 align="center">A Student Passionate about Web Development</h3>
+<h3 align="center">A Student Passionate about IT</h3>
 
 - 🔭 I’m currently working on **Conceptians**
 
