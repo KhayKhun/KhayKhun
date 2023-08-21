@@ -10,8 +10,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>
-  🔭 I’m currently working on Conceptians<br>
+<p align="left">✨ Creating bugs since <b>2022</b><br>
+  🔭 I’m currently working on <b>Conceptians</b><br>
   👨‍💻 <a href="https://portfolio-khaykhun.vercel.app/">My Portfolio</a><br>
   📝 I regularly write articles on <a href="https://www.facebook.com/profile.php?id=100086391128252">My Facebook Page </a><br>
   📫 How to reach me <a href="khaykhun22052006@gmail.com">khaykhun22052006@gmail.com</a></p>
