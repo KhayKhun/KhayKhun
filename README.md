@@ -46,5 +46,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo"  />
 </div>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaykhun&show_icons=true&locale=en&layout=compact" alt="khaykhun" /></p>
 ###
