@@ -6,10 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">✨ Creating bugs since <b>2022</b><br>
   🔭 I’m currently working on <b>Conceptians</b><br>
   👨‍💻 <a href="https://portfolio-khaykhun.vercel.app/">My Portfolio</a><br>
