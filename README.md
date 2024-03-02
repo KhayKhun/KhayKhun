@@ -6,8 +6,10 @@
   🔭 I’m currently working on <b>Conceptians</b><br>
   📝 Like my facebook page <a href="https://www.facebook.com/profile.php?id=100086391128252">Simple your web</a><br>
   📫 How to reach me <a href="saikhaykhunmong@gmail.com">saikhaykhunmong@gmail.com</a></p>
-
-<img align="center" style="margin: auto;" src="https://media.tenor.com/xvuydDAocrQAAAAi/doggo-dancing.gif" width="200" height="200" />
+<div align="center">
+<img  style="margin: auto;" src="https://media.tenor.com/xvuydDAocrQAAAAi/doggo-dancing.gif" width="200" height="200" />
+  
+</div>
 
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=khaykhun&show_icons=true&locale=en&layout=compact" alt="khaykhun" /></p>
