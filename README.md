@@ -8,3 +8,6 @@
   📫 How to reach me <a href="saikhaykhunmong@gmail.com">saikhaykhunmong@gmail.com</a></p>
 
 <img style="margin: auto;" src="https://media.tenor.com/xvuydDAocrQAAAAi/doggo-dancing.gif" width="200" height="200" />
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaykhun&show_icons=true&locale=en&layout=compact" alt="khaykhun" /></p>
